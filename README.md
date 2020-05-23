@@ -1,5 +1,6 @@
 # SelectiveDraw
 Selective draw to compare different cases.
+[中文](./README-cn.md)
 ## Usage
 ```matlab
 %% data generation
